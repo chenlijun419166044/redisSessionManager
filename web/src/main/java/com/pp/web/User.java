@@ -6,6 +6,7 @@ package com.pp.web;
 public class User {
     private String userName;
     private String sex;
+    private int age;
 
     public String getUserName() {
         return userName;
