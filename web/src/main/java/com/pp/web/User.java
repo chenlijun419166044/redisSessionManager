@@ -5,7 +5,7 @@ package com.pp.web;
  */
 public class User {
     private String userName;
-    private String seb;
+    private String sec;
 
     public String getUserName() {
         return userName;
