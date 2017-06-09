@@ -6,6 +6,7 @@ package com.pp.web;
 public class User {
     private String userName;
     private String sec;
+    private String age;
 
     public String getUserName() {
         return userName;
@@ -21,5 +22,21 @@ public class User {
 
     public void setSex(String sex) {
         this.sec = sex;
+    }
+
+    public String getSec() {
+        return sec;
+    }
+
+    public void setSec(String sec) {
+        this.sec = sec;
+    }
+
+    public String getAge() {
+        return age;
+    }
+
+    public void setAge(String age) {
+        this.age = age;
     }
 }
