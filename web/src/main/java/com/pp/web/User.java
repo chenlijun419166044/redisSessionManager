@@ -16,10 +16,10 @@ public class User {
     }
 
     public String getSex() {
-        return seb;
+        return sec;
     }
 
     public void setSex(String sex) {
-        this.seb = sex;
+        this.sec = sex;
     }
 }
