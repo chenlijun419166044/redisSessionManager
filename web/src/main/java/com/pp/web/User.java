@@ -5,7 +5,7 @@ package com.pp.web;
  */
 public class User {
     private String userName;
-    private String ses;
+    private String sec;
 
     public String getUserName() {
         return userName;
@@ -16,10 +16,10 @@ public class User {
     }
 
     public String getSex() {
-        return ses;
+        return seb;
     }
 
     public void setSex(String sex) {
-        this.ses = sex;
+        this.seb = sex;
     }
 }
