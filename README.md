@@ -1,0 +1,2 @@
+# redisSessionManager
+新增了一些测试方法来测试发生冲突要怎么解决
